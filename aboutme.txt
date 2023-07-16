@@ -1,0 +1,2 @@
+ My name is Chris. I am Learning full stack web development.
+ My goal is to be able to design and build a full functional website after this course.
